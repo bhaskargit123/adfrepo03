@@ -1,0 +1,22 @@
+{
+	"name": "ds_datafiles_input_employee_parquet",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_adls_bhaskaradls",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "employee.parquet",
+				"folderPath": "input",
+				"fileSystem": "datafiles"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
