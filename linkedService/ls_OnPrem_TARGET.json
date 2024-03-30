@@ -7,7 +7,7 @@
 		"typeProperties": {
 			"connectionString": "integrated security=True;data source=ADE;initial catalog=TARGET",
 			"userName": "ADE\\bhaskar",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJkOWY3YmNiZC05NjM3LTRjOTYtOGM5Mi1mM2Q0YjM3NjZlMmUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhOWI4YzljZi01ZTM3LTRmOTUtOWIyOC1kMTlkYzk3YjJhYzEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "SelfHostedIR",
