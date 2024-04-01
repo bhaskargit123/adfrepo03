@@ -355,7 +355,8 @@
 				"policy": {
 					"elapsedTimeMetric": {}
 				},
-				"annotations": []
+				"annotations": [],
+				"lastPublishTime": "2024-04-01T15:18:36Z"
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/dataflows/pl_scd_type_1')]"
@@ -403,7 +404,8 @@
 				"policy": {
 					"elapsedTimeMetric": {}
 				},
-				"annotations": []
+				"annotations": [],
+				"lastPublishTime": "2024-04-01T15:18:36Z"
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/dataflows/df_scd_type_II')]"
